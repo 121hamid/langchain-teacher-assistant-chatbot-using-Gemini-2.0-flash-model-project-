@@ -1,1 +1,1 @@
-# langchain-teacher-assistant-chatbot-using-Gemini-2.0-flash-model-project-
+# langchain projects-
